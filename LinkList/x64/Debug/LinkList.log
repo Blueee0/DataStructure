@@ -1,0 +1,3 @@
+﻿  main.c
+D:\coding\my_cans\data_structure\LinkList\main.c(261): warning C4715: “Search”: 不是所有的控件路径都返回值
+  LinkList.vcxproj -> D:\coding\my_cans\data_structure\LinkList\x64\Debug\LinkList.exe

@@ -1,0 +1,4 @@
+﻿  main.c
+D:\coding\my_cans\data_structure\SqStack\head.h(1,1): warning C4828: 文件包含在偏移 0xfd 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\coding\my_cans\data_structure\SqStack\main.c(32,15): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  SqStack.vcxproj -> D:\coding\my_cans\data_structure\SqStack\x64\Debug\SqStack.exe

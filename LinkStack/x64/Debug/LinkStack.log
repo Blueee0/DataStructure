@@ -1,0 +1,4 @@
+﻿  main.c
+D:\coding\my_cans\data_structure\LinkStack\head.h(1,1): warning C4828: 文件包含在偏移 0xfd 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\coding\my_cans\data_structure\LinkStack\main.c(46): warning C4715: “GetTop”: 不是所有的控件路径都返回值
+  LinkStack.vcxproj -> D:\coding\my_cans\data_structure\LinkStack\x64\Debug\LinkStack.exe

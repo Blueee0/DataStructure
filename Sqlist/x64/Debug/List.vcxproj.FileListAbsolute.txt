@@ -1,0 +1,2 @@
+D:\coding\my_cans\data_structure\List\x64\Debug\List.exe
+D:\coding\my_cans\data_structure\Sqlist\x64\Debug\List.exe

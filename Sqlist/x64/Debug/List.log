@@ -1,0 +1,6 @@
+﻿  Sqlist_main.c
+D:\coding\my_cans\data_structure\Sqlist\Sqlist_main.c(147,25): warning C4047: “函数”:“ElemType”与“ElemType *”的间接级别不同
+D:\coding\my_cans\data_structure\Sqlist\Sqlist_main.c(147,25): warning C4024: “Search_Elem”: 形参和实参 2 的类型不同
+D:\coding\my_cans\data_structure\Sqlist\Sqlist_main.c(148,20): warning C4047: “函数”:“ElemType”与“ElemType *”的间接级别不同
+D:\coding\my_cans\data_structure\Sqlist\Sqlist_main.c(148,20): warning C4024: “Insert_Elem”: 形参和实参 2 的类型不同
+  List.vcxproj -> D:\coding\my_cans\data_structure\Sqlist\x64\Debug\List.exe
